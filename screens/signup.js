@@ -82,7 +82,7 @@ export default function Signup() {
               <CustomButton
                 icon={faApple}
                 text="Apple"
-                onPress={() => console.log("Pressed yahoo")}
+                onPress={() => console.log("Pressed Apple")}
               />
               <CustomButton
                 icon={faGoogle}
